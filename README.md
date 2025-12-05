@@ -35,10 +35,10 @@ Execute the program using runserver command.
         <img src="/static/logo.png" height="100" width="540">
     </center>
     <br>
-    <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="cyan">
+    <table align="center" width="540" cellspacing="2" cellpadding="4" border="5" bgcolor="white">
     <caption><b>SLOT TIME TABLE - PRANITHA S (25013019)</b></caption>
     <tr align="center">
-      <th bgcolor="yellow">Day/Time</th>
+      <th bgcolor="orange">Day/Time</th>
       <th bgcolor="yellow">Monday</th>
       <th bgcolor="yellow">Tuesday</th>
       <th bgcolor="yellow">Wednesday</th>
@@ -48,43 +48,43 @@ Execute the program using runserver command.
     </tr>
     <tr align="center">
         <th bgcolor="yellow">8-10</th>
-        <td>FREE SLOT</td>
-        <td>FREE SLOT</td>
-        <td>COMMUNICATIVE ENGLISH</td>
-        <td>FREE SLOT</td>
-        <td>FUNDAMENTALS OF C PROGRAMMING</td>
-        <td>FREE SLOT</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="coral">C.E.</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="blueviolet">C PROGRAMMING</td>
+        <td bgcolor="lime">FREE SLOT</td>
     </tr>
     <tr align="center">
         <th bgcolor="yellow">10-12</th>
-        <td>COMMUNICATIVE ENGLISH</td>
-        <td>FREE SLOT</td>
-        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
+        <td bgcolor="coral">C.E.</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="cornflowerblue">F.W.A.D.</td>
+        <td bgcolor="cornflowerblue">F.W.A.D.</td>
+        <td bgcolor="cornflowerblue">F.W.A.D.</td>
+        <td bgcolor="cornflowerblue">F.W.A.D.</td>
     </tr>
     <tr>
         <th bgcolor="yellow">12-1</th>
-        <td colspan="5" align="center">L U N C H</td>
+        <td colspan="6" align="center" bgcolor="cyan">L U N C H</td>
     </tr>
     <tr align="center">
         <th bgcolor="yellow">1-3</th>
-        <td>FREE SLOT</td>
-        <td>COMMUNICATIVE ENGLISH</td>
-        <td>MENTOR MEET</td>
-        <td>FREE SLOT</td>
-        <td>FREE SLOT</td>
-        <td>COMMUNICATIVE ENGLISH</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="coral">C.E.</td>
+        <td bgcolor="red">MENTOR MEET</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="lime">FREE SLOT</td>
+        <td bgcolor="coral">C.E.</td>
     </tr>
         <tr align="center">
         <th bgcolor="yellow">3-5</th>
-        <td>FUNDAMENTALS OF C PROGRAMMING</td>
-        <td>FUNDAMENTALS OF C PROGRAMMING</td>
-        <td>FUNDAMENTALS OF C PROGRAMMING</td>
-        <td>FUNDAMENTALS OF C PROGRAMMING</td>
-        <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-        <td>FREE SLOT</td>
+        <td bgcolor="blueviolet">C PROGRAMMING</td>
+        <td bgcolor="blueviolet">C PROGRAMMING</td>
+        <td bgcolor="blueviolet">C PROGRAMMING</td>
+        <td bgcolor="blueviolet">C PROGRAMMING</td>
+        <td bgcolor="cornflowerblue">F.W.A.D.</td>
+        <td bgcolor="lime">FREE SLOT</td>
     </tr>
     </table>
     <br>
@@ -115,8 +115,8 @@ Execute the program using runserver command.
 ~~~
 
 ## OUTPUT
-![alt text](<Screenshot 2025-12-05 110147.png>)
-![alt text](<Screenshot 2025-12-05 110212.png>)
+<img width="1919" height="967" alt="slot 1" src="https://github.com/user-attachments/assets/56b39ef9-bfb1-4278-88b8-f389fcf7594f" />
+<img width="1093" height="522" alt="slot 2" src="https://github.com/user-attachments/assets/18fe4223-4e61-4eaa-b507-1ba6bc35ce83" />
 
 ## RESULT
 The program for creating slot timetable using basic HTML tags is executed successfully.
